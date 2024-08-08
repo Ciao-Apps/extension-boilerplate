@@ -10,7 +10,7 @@ export default function New({ navigateToPage}) {
             Please refer to the GitHub repo for running instructions and
             documentation
           </p>
-          <h1 className={styles.code}>New Page ./components/New/index.js</h1>
+          <h1 className={styles.code}>New Page ./pages/New/index.js</h1>
           <p>{"[ - This is New page content - ]"}</p>
           <p onClick={() => navigateToPage('index')}>{"< Go Back"}</p>
         </main>

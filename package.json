@@ -1,7 +1,7 @@
 {
   "name": "next-chrome-starter",
   "version": "0.0.1",
-  "description": "Next.js Chrome Extension Starter, Demo Example by ibnzUK. https://github.com/ibnzUK/next-chrome-starter",
+  "description": "Next.js Chrome Extension Starter",
   "main": "index.js",
   "scripts": {
     "build": "npm run prep",
